@@ -31,7 +31,7 @@ pip install SciPy
 # Run
 
 ```bash
-python isochron_fitting.py
+python isochrone_fitting.py
 ```
 
 # Hotkeys:
