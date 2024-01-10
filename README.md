@@ -1,5 +1,7 @@
 Package for astronomical practicum.
 
+You can go to `Code` button and choose `Download ZIP`.
+
 # Dependencies
 
 You need the following pthon packages:
